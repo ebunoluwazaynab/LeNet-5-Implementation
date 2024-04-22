@@ -46,7 +46,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 - Thanks to Yann LeCun for pioneering work in the field of CNNs.
 - Coursera's Deep Learning Specialization by Andrew Ng provided foundational knowledge.
-```
+
 
 
 
